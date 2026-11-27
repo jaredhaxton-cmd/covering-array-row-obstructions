@@ -1,0 +1,17 @@
+control: unrepairable
+triples=4 distinct_symbol=0 searched_triangles=4 unresolved=0 seconds=3.0357e-05
+coverage=verified interactions=4 distinct_rows=4 singleton_interactions=4 witnesses_per_row_min=1 witnesses_per_row_max=1 all_columns_rows=4
+triples=4 verified=4 unresolved=0 seconds=2.5405e-05
+control: repairable
+triples=1 distinct_symbol=0 searched_triangles=0 unresolved=1 seconds=2.7203e-05
+coverage=verified interactions=4 distinct_rows=3 singleton_interactions=2 witnesses_per_row_min=0 witnesses_per_row_max=1 all_columns_rows=0
+triples=1 verified=0 unresolved=1 seconds=4.8148e-05
+control: redundant
+triples=4 distinct_symbol=0 searched_triangles=0 unresolved=4 seconds=2.6824e-05
+coverage=verified interactions=4 distinct_rows=4 singleton_interactions=0 witnesses_per_row_min=0 witnesses_per_row_max=0 all_columns_rows=0
+triples=4 verified=0 unresolved=4 seconds=2.3625e-05
+triples=20 distinct_symbol=0 searched_triangles=1 unresolved=19 seconds=2.9585e-05
+coverage=verified interactions=24 distinct_rows=6 singleton_interactions=13 witnesses_per_row_min=0 witnesses_per_row_max=5 all_columns_rows=3
+triples=20 verified=1 unresolved=19 seconds=2.5383e-05
+Incompleteness control passed: unresolved triple (1,3,4) is independently brute-force UNSAT.
+All controls passed (brute-force repair, invalid witness IDs, missing edges, corrupt/truncated/extra certificate, unresolved strict rejection, invalid source, unresolved-but-UNSAT example).
