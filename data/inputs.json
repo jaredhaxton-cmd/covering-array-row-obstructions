@@ -1,0 +1,36 @@
+[
+  {
+    "id": "Q9",
+    "filename": "CA_351_5_7_3.txt",
+    "n": 351,
+    "t": 5,
+    "k": 7,
+    "v": 3,
+    "sha256": "c63cef407119ef3ba7a9122c99c28f6d9c191f50fc5a77161aed7c4bfd42fba4",
+    "source_archive": "Lattice-D0007-20261126-2200.zip",
+    "source_archive_sha256": "4d8b3dbc14f20bd00f50558fbaa073a70f1eeba0331c212b3aa0d2bf66d1b710",
+    "archive_member": "Project Lattice \u2014 Pass 038 \u2014 Complete Bundle.zip",
+    "nested_member": "pass38-q9-573-topdown/source_CA_351_5_7_3.txt",
+    "upstream_path": "table/arrays/CA_351_5_7_3.txt",
+    "archived_attribution": "S5 Dwyer database, cross-sum construction (CKRS)",
+    "expected_triples": 7145775,
+    "expected_first_filter": 1183032
+  },
+  {
+    "id": "Q10",
+    "filename": "CA_340_4_6_4.txt",
+    "n": 340,
+    "t": 4,
+    "k": 6,
+    "v": 4,
+    "sha256": "dd10b6b78b2e7c07ef31ddf92e71d2cf67ff590bc330a95e62dc7f27976de20b",
+    "source_archive": "Lattice-D0007-20261126-2200.zip",
+    "source_archive_sha256": "4d8b3dbc14f20bd00f50558fbaa073a70f1eeba0331c212b3aa0d2bf66d1b710",
+    "archive_member": "Project Lattice \u2014 Pass 039 \u2014 Complete Bundle.zip",
+    "nested_member": "pass39-q10-464-topdown/source_CA_340_4_6_4.txt",
+    "upstream_path": "table/arrays/CA_340_4_6_4.txt",
+    "archived_attribution": "S7 CKRS data, simulated annealing (CKRS)",
+    "expected_triples": 6492980,
+    "expected_first_filter": 341898
+  }
+]
