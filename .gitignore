@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.bin
+*.exe
+build/
+# Third-party inputs intentionally excluded until redistribution is confirmed.
+data/CA_351_5_7_3.txt
+data/CA_340_4_6_4.txt
