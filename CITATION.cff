@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these certificate-backed results, cite the research package and the original covering array constructors as described in data/README.md."
+type: software
+title: "Three-interaction obstruction certificates for covering-array row replacement"
+authors:
+  - family-names: Haxton
+    given-names: Jared
+version: 0.1.0
+date-released: 2026-11-26
+abstract: "Reproducibility package associated with Projects Lattice and Forge. Includes explicit singleton-interaction triangle certificates for 13,638,755 fixed three-row replacement neighborhoods in two existing covering arrays, and a separate checker. AI-assisted computational research; independently adjudicated by Project Forge (Muse), 2026-11-26."
+keywords:
+  - covering arrays
+  - combinatorial designs
+  - local irreducibility
+  - obstruction certificates
+  - reproducible research
