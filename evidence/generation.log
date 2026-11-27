@@ -1,0 +1,14 @@
+
+Q9 CA_351_5_7_3.txt
+triples=7145775 distinct_symbol=5962743 searched_triangles=1183032 unresolved=0 seconds=0.508058
+coverage=verified interactions=5103 distinct_rows=351 singleton_interactions=2943 witnesses_per_row_min=7 witnesses_per_row_max=9 all_columns_rows=351
+triples=7145775 verified=7145775 unresolved=0 seconds=0.175573
+2-to-1 corollary: all 61425 pairs excluded
+raw SHA256 707c7e5cdf8012f361356aaf80c61118168d9c23edb60738607b353579a9bb73; gzip SHA256 e51d85fb5df9dcdb90fcf57cdcb97c940a795562b9c5496f09890b9480bcfda6; gzip bytes 2718561
+
+Q10 CA_340_4_6_4.txt
+triples=6492980 distinct_symbol=6151082 searched_triangles=341898 unresolved=0 seconds=0.296798
+coverage=verified interactions=3840 distinct_rows=340 singleton_interactions=2681 witnesses_per_row_min=4 witnesses_per_row_max=11 all_columns_rows=340
+triples=6492980 verified=6492980 unresolved=0 seconds=0.124194
+2-to-1 corollary: all 57630 pairs excluded
+raw SHA256 99081a963cf65d1386d12fcc192229d78d7ab4645fd98d6492030e789e040422; gzip SHA256 db1b124d263cf9e8448758715ce28112a55f5472bdb7f05c13d4249dbb6602f8; gzip bytes 1758218
