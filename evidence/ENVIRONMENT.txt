@@ -1,0 +1,7 @@
+Reference local reproduction environment
+Linux 6.18.57 x86_64
+g++ (Debian 14.2.0-19) 14.2.0
+Python 3.12.14
+C++ options: -std=c++17 -O3 -Wall -Wextra -Wpedantic
+No third-party Python libraries or external solver dependencies.
+The seconds in the logs are individual compiled-code phases; they exclude process startup, compilation, compression/decompression and Python preparation.
